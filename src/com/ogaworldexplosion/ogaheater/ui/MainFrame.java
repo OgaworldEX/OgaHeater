@@ -14,7 +14,7 @@ public class MainFrame extends JFrame {
 
     private static final long serialVersionUID = -8424734531682214227L;
     private static final String AppName = "OgaHeater";
-    private static final String Version = "1.0";
+    private static final String Version = " v1.0.1";
     private JPanel contentPane;
 
     private int maxCoreCount = Runtime.getRuntime().availableProcessors();
